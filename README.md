@@ -1,4 +1,4 @@
-# Allergen Checker
+# Recipe Assistant
 
 This project is a simple desktop application that detects allergens from a list of ingredients and provides substitute recommendations. It uses a pre-trained FastText model for allergen detection and a substitution dataset for suggestions.
 
