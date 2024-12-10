@@ -1,0 +1,121 @@
+Food Product,Main Ingredient,Sweetener,Fat/Oil,Seasoning,Allergens,Prediction
+Velliyapam,Rice Flour,None,None,Coconut,None,Does not contain
+Veg Poha,Flattened Rice,None,Oil,Turmeric,None,Does not contain
+Chocolate Muffins,Flour,Sugar,Butter,None,"Wheat, Dairy",Contains
+Tea,Tea Leaves,None,None,None,None,Does not contain
+Coffee,Coffee Beans,None,None,None,None,Does not contain
+Boost,Malt,Sugar,None,None,None,Does not contain
+Milk,Milk,None,None,None,Dairy,Contains
+Chocos,Corn,Sugar,None,None,None,Does not contain
+Coconut Chutney,Coconut,None,None,Chilies,None,Does not contain
+Ginger Chutney,Ginger,None,Oil,Chilies,None,Does not contain
+Mirchi Onion Chutney,Onion,None,Oil,Chilies,None,Does not contain
+Annamaya Laddoo,Besan,Jaggery,Ghee,Cardamom,None,Does not contain
+Aloo Bajji,Potato,None,Oil,Chilies,None,Does not contain
+Ghee Pulka,Wheat Flour,None,Ghee,None,Wheat,Contains
+Rumali Roti,Wheat Flour,None,None,None,Wheat,Contains
+Egg Masala,Egg,None,Oil,Spices,Egg,Contains
+Steamed Rice,Rice,None,None,None,None,Does not contain
+Veg Curry,Soya,None,Oil,Spices,None,Does not contain
+Paneer Curry,Paneer,None,Oil,Spices,Dairy,Contains
+Jeera Rice,Rice,None,Oil,Cumin,None,Does not contain
+Corn Rice,Rice,None,Oil,Spices,None,Does not contain
+Mango Dal,Toor Dal,None,None,Spices,None,Does not contain
+Palak Dal,Toor Dal,None,None,Spices,None,Does not contain
+Rasam,Tamarind,None,None,Spices,None,Does not contain
+Curd,Milk,None,None,None,Dairy,Contains
+Pickle,Lemon,None,Oil,Spices,None,Does not contain
+Cut Fruits (Banana),Banana,None,None,None,None,Does not contain
+Alasanda Wada,Black-Eyed Peas,None,Oil,Spices,None,Does not contain
+Wheat Upma,Wheat Flour,None,Oil,Spices,Wheat,Contains
+Fruit Cake,Flour,Sugar,Butter,None,"Wheat, Dairy",Contains
+Peanut Chutney,Peanuts,None,Oil,Chilies,Peanuts,Contains
+Pachi Tomato Chutney,Tomato,None,Oil,Chilies,None,Does not contain
+Kulcha,Wheat Flour,None,Ghee,None,Wheat,Contains
+Chole Curry,Chickpeas,None,Oil,Spices,None,Does not contain
+Cabbage Coconut Poriyal,Cabbage,None,Oil,Coconut,None,Does not contain
+Brown Onion Rice,Rice,None,Oil,Onions,None,Does not contain
+Dal Tadka,Toor Dal,None,Oil,Spices,None,Does not contain
+Rajma Masala,Red Kidney Beans,None,Oil,Spices,None,Does not contain
+Dal Fry,Toor Dal,None,Oil,Spices,None,Does not contain
+Raitha,Curd,None,None,None,Dairy,Contains
+Dosakaya Pachadi,Cucumber,None,Oil,Spices,None,Does not contain
+Kala Jamun,Flour,Sugar,Ghee,None,"Wheat, Dairy",Contains
+Veg Salad,Cucumber,None,None,None,None,Does not contain
+Samosa,Potato,None,Oil,Spices,Wheat,Contains
+Boiled Corn,Corn,None,None,Spices,None,Does not contain
+Onion Bonda,Onion,None,Oil,Spices,None,Does not contain
+Pongal,Rice,None,Ghee,Spices,None,Does not contain
+Cookies (Chocolate Ajwain),Flour,Sugar,Butter,None,"Wheat, Dairy",Contains
+Sheer Kurma,Milk,Sugar,None,Cardamom,Dairy,Contains
+Lemons,Lemon,None,None,None,None,Does not contain
+Bagara Rice,Rice,None,Oil,Spices,None,Does not contain
+Dum Ka Murgh,Chicken,None,Oil,Spices,None,Does not contain
+Cauliflower Tomato Curry,Cauliflower,None,Oil,Spices,None,Does not contain
+Tava Paneer,Paneer,None,Oil,Spices,Dairy,Contains
+Bisi Bele Bath,Rice,None,Ghee,Spices,None,Does not contain
+Pappu Charu,Toor Dal,None,None,Spices,None,Does not contain
+Pepper Rasam,Pepper,None,None,Spices,None,Does not contain
+Curd Rice,Rice,None,None,Curd,Dairy,Contains
+Cut Fruits (Watermelon),Watermelon,None,None,None,None,Does not contain
+Masala Wada,Chana Dal,None,Oil,Spices,None,Does not contain
+Sprouts,Moong Beans,None,None,Spices,None,Does not contain
+Onion Rings,Onion,None,Oil,Spices,None,Does not contain
+Onion Pesaraattu,Green Gram,None,Oil,Spices,None,Does not contain
+Kaju Upma,Wheat Flour,None,Ghee,Cashew Nuts,"Wheat, Tree Nuts",Contains
+Banana Cake,Flour,Sugar,Butter,None,"Wheat, Dairy",Contains
+Coriander Rice,Rice,None,Oil,Spices,None,Does not contain
+Kandi Podi Rice,Rice,None,Oil,Spices,None,Does not contain
+Avakaya Pickle,Mango,None,Oil,Spices,None,Does not contain
+Mudhapappu,Toor Dal,None,None,Spices,None,Does not contain
+Majiga Charu,Buttermilk,None,None,Spices,Dairy,Contains
+Kova Burfi,Milk,Sugar,Ghee,None,Dairy,Contains
+Fruit Custard,Milk,Sugar,None,Fruits,Dairy,Contains
+Dondakaya Pakoda,Ivy Gourd,None,Oil,Spices,None,Does not contain
+Aloo Tomato Curry,Potato,None,Oil,Spices,None,Does not contain
+Lachha Paratha,Wheat Flour,None,Ghee,None,Wheat,Contains
+Pav Bhaji,Potato,None,Butter,Spices,Dairy,Contains
+Green Peas Boil,Green Peas,None,None,Spices,None,Does not contain
+Dal Makhna,Black Gram,None,Butter,Spices,Dairy,Contains
+Boiled Egg,Egg,None,None,None,Egg,Contains
+Cut Fruits (Apple),Apple,None,None,None,None,Does not contain
+Chole Bhature,Chickpeas,None,Oil,Spices,Wheat,Contains
+Uggani,Puffed Rice,None,Oil,Spices,None,Does not contain
+Chocolate Donuts,Flour,Sugar,Butter,None,"Wheat, Dairy",Contains
+Mint Onion Pulao,Rice,None,Oil,Spices,None,Does not contain
+Peas Pulao,Rice,None,Oil,Spices,None,Does not contain
+Tomato Dal,Toor Dal,None,None,Spices,None,Does not contain
+Pudina Chutney,Mint,None,None,Spices,None,Does not contain
+Madtha Kaja,Flour,Sugar,Ghee,None,"Wheat, Dairy",Contains
+Beerakaya Curry,Ridge Gourd,None,Oil,Spices,None,Does not contain
+Mutter Phool Makhana,Fox Nut,None,Oil,Spices,None,Does not contain
+Karam Podi,Spices,None,None,Spices,None,Does not contain
+Cut Fruits (Grapes),Grapes,None,None,None,None,Does not contain
+Punugulu with Tomato Chutney,Rice Flour,None,Oil,Spices,None,Does not contain
+Egg Burji,Egg,None,Oil,Spices,Egg,Contains
+Dosa (Onion/Masala),Rice Flour,None,Oil,Onion,None,Does not contain
+Tomato Bath,Rice,None,Oil,Spices,None,Does not contain
+Sambar,Lentils,None,None,Spices,None,Does not contain
+Vangi Bath,Rice,None,Oil,Spices,None,Does not contain
+Papad,Flour,None,Oil,Spices,None,Does not contain
+Coconut Rice,Rice,None,Oil,Coconut,None,Does not contain
+Sorakaya Dal,Bottle Gourd,None,None,Spices,None,Does not contain
+Mango Pachadi,Mango,None,None,Spices,None,Does not contain
+Palli Chutney,Peanuts,None,Oil,Spices,Peanuts,Contains
+Kakarkaya Karam,Bitter Gourd,None,None,Spices,None,Does not contain
+Banaras Pulka,Wheat Flour,None,None,None,Wheat,Contains
+Chudwa,Flattened Rice,None,Oil,Spices,None,Does not contain
+Coriander Brinjal,Brinjal,None,Oil,Spices,None,Does not contain
+Cut Fruits (Papaya),Papaya,None,None,None,None,Does not contain
+Shahi Tukda,Bread,Sugar,Ghee,None,"Wheat, Dairy",Contains
+Aloo Paratha,Potato,None,Butter,Spices,Dairy,Contains
+Peas Upma,Green Peas,None,Oil,Spices,None,Does not contain
+Ragi Idly,Finger Millet,None,None,Spices,None,Does not contain
+Kichidi,Rice,None,None,Spices,None,Does not contain
+Chicken Dum Biryani,Chicken,None,Oil,Spices,None,Does not contain
+Paneer Biryani,Paneer,None,Oil,Spices,Dairy,Contains
+3 in 1 Salan,Peanuts,None,Oil,Spices,Peanuts,Contains
+Mixed Fruits,Fruits,None,None,None,None,Does not contain
+Ice Creams,Milk,Sugar,None,Flavors,Dairy,Contains
+Pani Puri,Wheat Flour,None,None,Spices,Wheat,Contains
+Dahi Puri,Yogurt,None,None,Spices,Dairy,Contains
